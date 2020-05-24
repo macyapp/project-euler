@@ -10,5 +10,5 @@ while a<1000 :
 				print(a," ",b," ",c," ",(a+b+c))
 				print(a*b*c)
 			c+=1
-    b+=1
+		b+=1
 	a+=1
