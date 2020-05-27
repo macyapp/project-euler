@@ -1,5 +1,3 @@
-i=0
-j=0
 n=2000000
 sum=0
 print("The sum is:")
